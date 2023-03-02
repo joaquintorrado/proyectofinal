@@ -1,0 +1,91 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+
+    }
+.cv{
+    background-color: #eae8e8;
+    width: 800px;
+    height: 1000px;
+    padding-top: 30px;
+    margin:auto
+
+}
+.contacto{
+    background-color: #eae8e8;
+    width: 200px;
+    height: 1200px;
+    float: left;
+
+}
+.cuerpoexperiencia{
+    background-color: white;
+    width: 600px;
+    height: 1200px;
+    float: left;
+    border-radius: 50px 0px 0px 0px;
+    padding-top: 30px;
+
+}
+.infopersonal {
+    padding: 10px;
+    font-size: 12px;
+
+}
+.titulopersonal {
+    color: #63acd8;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+.nombrecv {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.experiencia {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 12px;
+
+}
+
+.linea {
+    border-top: 1px solid #63acd8;
+    height: 10px;
+    padding: 0;
+    
+}
+  .puesto {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+.experiencialaboral {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 2px;
+    margin-top: 50px;
+    
+}
+.tituloexperiencia {
+    font-size: 15px;
+    font-weight: bold;
+}
+.anioexperiencia {
+    font-weight: bold;
+    font-size: 12px;
+}
+li {
+    margin-bottom: 10px;
+}
+#bloquefoto{
+ text-align: center;
+}
+#fotocv {
+    border-radius: 65px;
+}
+
